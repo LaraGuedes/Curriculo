@@ -1,0 +1,48 @@
+.total{
+    margin: auto;
+}
+
+.barra{
+    background-color: palevioletred;
+    height:100%;
+    width: 20%; 
+    display: inline-block;
+    position: fixed;
+}
+
+.complementar{
+    margin: 10% 0;
+    color: rgb(243, 229, 229);
+}
+
+.informacoes{
+    width:55%;
+    display: inline-block;
+    margin-left: 28%;
+    margin-top: 10%;
+}
+
+.principal{
+    width:55%;
+    display: inline-block;
+    margin-left: 28%;
+    margin-top: 7%;
+}
+
+.ladoDireito{
+    background-color: palevioletred;
+    height: 100%;
+    width: 0.1%;
+    display: inline-block;
+    position: fixed;
+    left: 75%;
+    top: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
